@@ -1,0 +1,447 @@
+{
+  "generatedAt": "2026-04-07T00:17:40.822Z",
+  "shop": {
+    "id": "gid://shopify/Shop/69476548642",
+    "name": "Sana Diamonds",
+    "email": "sdsana2020@yahoo.com",
+    "contactEmail": "sdsana2020@yahoo.com",
+    "myshopifyDomain": "885499-3.myshopify.com",
+    "url": "https://sanadiamonds.com",
+    "description": "Shop Sana Diamond’s curated selection of gold, silver, and diamond jewelry. Visit us at the Shoppes at Bel Air in Mobile, Alabama, or order online with secure payments and fast shipping.",
+    "ianaTimezone": "America/Chicago",
+    "currencyCode": "USD",
+    "weightUnit": "OUNCES",
+    "taxesIncluded": false,
+    "checkoutApiSupported": true,
+    "enabledPresentmentCurrencies": [
+      "USD"
+    ],
+    "plan": {
+      "displayName": "Basic",
+      "partnerDevelopment": false,
+      "shopifyPlus": false
+    },
+    "primaryDomain": {
+      "host": "sanadiamonds.com",
+      "url": "https://sanadiamonds.com",
+      "sslEnabled": true
+    },
+    "billingAddress": {
+      "address1": "6762 Biltmore Court",
+      "address2": "",
+      "city": "Mobile",
+      "province": "Alabama",
+      "country": "United States",
+      "zip": "36695",
+      "phone": "2514558543"
+    }
+  },
+  "issues": [
+    {
+      "severity": "info",
+      "area": "Shop",
+      "message": "Only 1 currency (USD) — consider enabling multi-currency if selling internationally",
+      "fix": null
+    },
+    {
+      "severity": "critical",
+      "area": "Products",
+      "message": "12 products have NO images",
+      "fix": "Upload product photos"
+    },
+    {
+      "severity": "warning",
+      "area": "Products",
+      "message": "80 products have zero inventory",
+      "fix": "Update inventory or enable overselling"
+    },
+    {
+      "severity": "critical",
+      "area": "Navigation",
+      "message": "No navigation menus configured",
+      "fix": "Run navigation setup script"
+    },
+    {
+      "severity": "warning",
+      "area": "Navigation",
+      "message": "No main menu found",
+      "fix": "Create main navigation"
+    },
+    {
+      "severity": "warning",
+      "area": "Navigation",
+      "message": "No footer menu found",
+      "fix": "Create footer navigation"
+    },
+    {
+      "severity": "info",
+      "area": "Webhooks",
+      "message": "No webhooks registered — order/inventory notifications won't trigger",
+      "fix": "Set up webhooks if integrating with external systems"
+    }
+  ],
+  "sections": {
+    "products": {
+      "total": 235,
+      "active": 235,
+      "draft": 0,
+      "archived": 0,
+      "noImages": 12,
+      "noDescription": 0,
+      "noSeoTitle": 0,
+      "noSeoDesc": 0,
+      "noProductType": 0,
+      "noTags": 0,
+      "noCollections": 0,
+      "noSku": 0,
+      "zeroInventory": 80,
+      "productsWithoutImages": [
+        {
+          "id": "gid://shopify/Product/8091640791074",
+          "title": "14KT 1.86CT D- BANGLE"
+        },
+        {
+          "id": "gid://shopify/Product/8091640856610",
+          "title": "10KT 0.74CT D- BANGLE"
+        },
+        {
+          "id": "gid://shopify/Product/8091642429474",
+          "title": "14KT 0.25CT D-BANGLE"
+        },
+        {
+          "id": "gid://shopify/Product/8091642855458",
+          "title": "14KT 2.76CT D- BANGLE"
+        },
+        {
+          "id": "gid://shopify/Product/8091642920994",
+          "title": "10KT 1.00-1.03CT D- BANGLE"
+        },
+        {
+          "id": "gid://shopify/Product/8091642953762",
+          "title": "10KT 0.83CT D- BANGLE"
+        },
+        {
+          "id": "gid://shopify/Product/8091646427170",
+          "title": "10KT 2.37-2.42CT D-BANGLE BAGUETTES"
+        },
+        {
+          "id": "gid://shopify/Product/8092695068706",
+          "title": "14KT 0.60CT LAB GROWN PENDANT \"L\""
+        },
+        {
+          "id": "gid://shopify/Product/8092695101474",
+          "title": "14KT 0.73CT LAB GROWN PENDANT\"F\""
+        },
+        {
+          "id": "gid://shopify/Product/8092695134242",
+          "title": "14KT 1.28CT LAB GROWN PENDANT\"M\""
+        },
+        {
+          "id": "gid://shopify/Product/8092695167010",
+          "title": "14KT 0.84CT LAB GROWN PENDANT \"H\""
+        },
+        {
+          "id": "gid://shopify/Product/8092695199778",
+          "title": "14KT 0.71CT LAB GROWN PENDANT \"I\""
+        }
+      ],
+      "productsWithoutCollections": [],
+      "productsWithoutSEO": [],
+      "draftProducts": []
+    },
+    "collections": {
+      "total": 23,
+      "empty": 0,
+      "list": [
+        {
+          "title": "Band",
+          "handle": "band",
+          "products": 5
+        },
+        {
+          "title": "Bangle",
+          "handle": "bangle",
+          "products": 109
+        },
+        {
+          "title": "Bracelet",
+          "handle": "bracelet",
+          "products": 100
+        },
+        {
+          "title": "Earrings",
+          "handle": "earrings",
+          "products": 6
+        },
+        {
+          "title": "Necklace",
+          "handle": "necklace",
+          "products": 5
+        },
+        {
+          "title": "Pendant",
+          "handle": "pendant",
+          "products": 5
+        },
+        {
+          "title": "Home",
+          "handle": "home",
+          "products": 4
+        },
+        {
+          "title": "Bridal Set",
+          "handle": "bridal-set",
+          "products": 5
+        },
+        {
+          "title": "Rings",
+          "handle": "rings",
+          "products": 5
+        },
+        {
+          "title": "Bracelets",
+          "handle": "bracelets",
+          "products": 185
+        },
+        {
+          "title": "Diamond Jewelry",
+          "handle": "diamond-jewelry",
+          "products": 235
+        },
+        {
+          "title": "Gold Jewelry",
+          "handle": "gold-jewelry",
+          "products": 234
+        },
+        {
+          "title": "Over $1,000",
+          "handle": "over-1-000",
+          "products": 180
+        },
+        {
+          "title": "Chains",
+          "handle": "chains",
+          "products": 1
+        },
+        {
+          "title": "Sets",
+          "handle": "sets",
+          "products": 8
+        },
+        {
+          "title": "$150 – $500",
+          "handle": "150-500",
+          "products": 35
+        },
+        {
+          "title": "$500 – $1,000",
+          "handle": "500-1-000",
+          "products": 14
+        },
+        {
+          "title": "Gemstone Jewelry",
+          "handle": "gemstone-jewelry",
+          "products": 12
+        },
+        {
+          "title": "Pendants",
+          "handle": "pendants",
+          "products": 5
+        },
+        {
+          "title": "Necklaces",
+          "handle": "necklaces",
+          "products": 3
+        },
+        {
+          "title": "Rings",
+          "handle": "rings-1",
+          "products": 11
+        },
+        {
+          "title": "Silver Jewelry",
+          "handle": "silver-jewelry",
+          "products": 1
+        },
+        {
+          "title": "$50 – $150",
+          "handle": "50-150",
+          "products": 6
+        }
+      ],
+      "emptyCollections": []
+    },
+    "pages": {
+      "total": 5,
+      "list": [
+        {
+          "title": "Contact",
+          "handle": "contact",
+          "hasContent": false
+        },
+        {
+          "title": "About Us",
+          "handle": "about-us",
+          "hasContent": false
+        },
+        {
+          "title": "About Us",
+          "handle": "about",
+          "hasContent": true
+        },
+        {
+          "title": "FAQ",
+          "handle": "faq",
+          "hasContent": true
+        },
+        {
+          "title": "Jewelry Care Guide",
+          "handle": "jewelry-care",
+          "hasContent": true
+        }
+      ]
+    },
+    "menus": {
+      "total": 0,
+      "list": []
+    },
+    "policies": {
+      "total": 4,
+      "list": [
+        {
+          "title": "Privacy policy",
+          "handle": "privacy-policy",
+          "hasContent": true
+        },
+        {
+          "title": "Refund policy",
+          "handle": "refund-policy",
+          "hasContent": true
+        },
+        {
+          "title": "Shipping",
+          "handle": "shipping-policy",
+          "hasContent": true
+        },
+        {
+          "title": "Terms of service",
+          "handle": "terms-of-service",
+          "hasContent": true
+        }
+      ]
+    },
+    "blogs": {
+      "total": 1,
+      "list": [
+        {
+          "title": "News",
+          "handle": "news"
+        }
+      ]
+    },
+    "themes": {
+      "list": [
+        {
+          "name": "Dawn",
+          "role": "UNPUBLISHED"
+        },
+        {
+          "name": "Radiant",
+          "role": "UNPUBLISHED"
+        },
+        {
+          "name": "Dawn",
+          "role": "UNPUBLISHED"
+        },
+        {
+          "name": "Craft",
+          "role": "UNPUBLISHED"
+        },
+        {
+          "name": "Stella",
+          "role": "DEMO"
+        },
+        {
+          "name": "jerani-home-1",
+          "role": "MAIN"
+        },
+        {
+          "name": "jerani-home-2",
+          "role": "UNPUBLISHED"
+        }
+      ]
+    },
+    "webhooks": {
+      "total": 0,
+      "list": []
+    },
+    "shipping": {
+      "total": 2,
+      "zones": [
+        {
+          "name": "Domestic",
+          "countries": [
+            "US"
+          ],
+          "rateCount": 5
+        },
+        {
+          "name": "International",
+          "countries": [
+            "AE",
+            "AT",
+            "AU",
+            "BE",
+            "CA",
+            "CH",
+            "CZ",
+            "DE",
+            "DK",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "HK",
+            "IE",
+            "IL",
+            "IT",
+            "JP",
+            "KR",
+            "MY",
+            "NL",
+            "NO",
+            "NZ",
+            "PL",
+            "PT",
+            "SE",
+            "SG"
+          ],
+          "rateCount": 2
+        }
+      ]
+    },
+    "payment": {
+      "eligibleForPayments": true,
+      "passwordEnabled": false,
+      "setupRequired": false,
+      "hasStorefront": true
+    },
+    "locations": {
+      "total": 1,
+      "list": [
+        {
+          "name": "6762 Biltmore Court",
+          "active": true,
+          "city": "Mobile"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "launchReady": false,
+    "critical": 2,
+    "warnings": 3,
+    "info": 2,
+    "totalIssues": 7
+  }
+}

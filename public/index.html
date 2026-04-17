@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyCase OAuth | Flow Integration</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="floating-shards">
+        <div class="shard"></div>
+        <div class="shard"></div>
+    </div>
+
+    <div class="container">
+        <div class="card">
+            <h1>MyCase Integration</h1>
+            <p class="description">Authorization Code Grant Flow Guide & Redirect Handler</p>
+
+            <div class="steps">
+                <div class="step">
+                    <div class="step-num">1</div>
+                    <div class="step-content">
+                        <h3>Provide Redirect URI</h3>
+                        <p>Copy the URI below and provide it to MyCase support to register your application.</p>
+                        <div class="uri-box">
+                            <span class="uri-text" id="redirect-uri">http://localhost:3000/callback</span>
+                            <button class="copy-btn" onclick="copyURI()">Copy URI</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step">
+                    <div class="step-num">2</div>
+                    <div class="step-content">
+                        <h3>Set Credentials</h3>
+                        <p>Once you get your Client ID and Secret from MyCase, add them to your <code style="color: var(--secondary-color)">.env</code> file.</p>
+                    </div>
+                </div>
+
+                <div class="step">
+                    <div class="step-num">3</div>
+                    <div class="step-content">
+                        <h3>Start Authorization</h3>
+                        <p>Click the button below to initiate the OAuth flow. You will be redirected to MyCase to grant access.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="status-container" style="text-align: center; margin-top: 2.5rem;">
+                <!-- Status badges will appear here -->
+            </div>
+
+            <div class="action-area">
+                <div id="auth-code-container" style="display:none; width: 100%;">
+                  <div class="uri-box" style="border-style: solid; border-color: var(--success); background: rgba(16, 185, 129, 0.05);">
+                    <div style="flex-direction: column; display: flex; gap: 0.2rem;">
+                      <span style="font-size: 0.8rem; color: var(--success);">Authorization Code Captured:</span>
+                      <span class="uri-text" id="auth-code" style="color: var(--text-primary); font-size: 0.9rem;"></span>
+                    </div>
+                  </div>
+                </div>
+
+                <button id="auth-link" class="btn-primary" onclick="startAuth()">Initiate Authorization Flow</button>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); text-align: center;">By clicking, you will be redirected to MyCase for authentication.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const REDIRECT_URI = window.location.origin + '/callback';
+        document.getElementById('redirect-uri').innerText = REDIRECT_URI;
+
+        function copyURI() {
+            navigator.clipboard.writeText(REDIRECT_URI);
+            const btn = document.querySelector('.copy-btn');
+            const originalText = btn.innerText;
+            btn.innerText = 'Copied!';
+            btn.style.background = '#10b981';
+            setTimeout(() => {
+                btn.innerText = originalText;
+                btn.style.background = '';
+            }, 2000);
+        }
+
+        function startAuth() {
+            // This normally needs a Client ID. If it's missing, we show an alert.
+            const clientId = 'YOUR_CLIENT_ID'; // Ideally pulled from .env via an API call
+            if (clientId === 'YOUR_CLIENT_ID') {
+              alert('Please set your Client ID in the code or environment first. This is just a demonstration interface.');
+              return;
+            }
+            
+            const authUrl = `https://api.mycase.com/oauth/authorize?response_type=code&client_id=${clientId}&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&state=xyz`;
+            window.location.href = authUrl;
+        }
+
+        // Handle parameters from URL on return
+        window.onload = () => {
+          const urlParams = new URLSearchParams(window.location.search);
+          const code = urlParams.get('code');
+          const error = urlParams.get('error');
+          const errorDesc = urlParams.get('description');
+          const statusContainer = document.getElementById('status-container');
+
+          if (code) {
+            document.getElementById('auth-code-container').style.display = 'block';
+            document.getElementById('auth-code').innerText = code;
+            statusContainer.innerHTML = `<div class="status-badge success">✅ Authorization Granted</div>`;
+            document.getElementById('auth-link').innerText = 'Re-authorize';
+          } else if (error) {
+            statusContainer.innerHTML = `<div class="status-badge error">❌ ${error}: ${errorDesc || 'Access denied'}</div>`;
+          }
+        }
+    </script>
+</body>
+</html>
