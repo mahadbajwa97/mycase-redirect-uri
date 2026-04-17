@@ -1,0 +1,4802 @@
+{
+  "filterGroupSummary": {
+    "Metal": [
+      "Gold",
+      "Silver"
+    ],
+    "Type": [
+      "Bracelet",
+      "Chain",
+      "Earring",
+      "Necklace",
+      "Pendant",
+      "Ring",
+      "Set"
+    ],
+    "Karat": [
+      "10K Gold",
+      "14K Gold",
+      "18K Gold",
+      "925 Silver"
+    ],
+    "Stone": [
+      "Diamond",
+      "Emerald",
+      "Ruby",
+      "Sapphire",
+      "Turquoise"
+    ],
+    "For": [
+      "Men",
+      "Women"
+    ],
+    "Style": [
+      "Engagement",
+      "Religious",
+      "Wedding"
+    ]
+  },
+  "preview": [
+    {
+      "id": 8091722088482,
+      "title": "10K 0.22-0.26CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091713372194,
+      "title": "10K 0.32CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722186786,
+      "title": "10K 0.39-0.42CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722154018,
+      "title": "10K 0.42-0.50CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722121250,
+      "title": "10K 0.51-0.54CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722252322,
+      "title": "10K 0.53-0.62CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722285090,
+      "title": "10K 0.57-0.61CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722022946,
+      "title": "10K 0.58CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722317858,
+      "title": "10K 0.59-0.82CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091722350626,
+      "title": "10K 0.61-0.64CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "10 Kt",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091718418466,
+      "title": "10K 0.99-1.02CT D-BANGLE LDS RDS INV FLOWER",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091718516770,
+      "title": "10K 1.09CT D-BANGLE LDS RDS INV FLOWER",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091713503266,
+      "title": "10K 1.26CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091718090786,
+      "title": "10K 1.78CT D-BANGLE LDS BAG/RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091718615074,
+      "title": "10K 1.82-1.87CT D-BANGLE LDS RDS INV FLOWER SETTING",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091718746146,
+      "title": "10K 1.88-2.01CT D-BANGLE LDS RDS INV FLOWER",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091713601570,
+      "title": "10K 1.97CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091713699874,
+      "title": "10K 1.97CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091717730338,
+      "title": "10K 2.00CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091713798178,
+      "title": "10K 2.02CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "10 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091738406946,
+      "title": "10KR 1.40CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "10kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737194530,
+      "title": "10KR 7.00CTW DIAMOND INFINITY ROLO LINK BRACELET",
+      "existingTags": [
+        "10kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737227298,
+      "title": "10KR 7.38CTW DIAMOND EVIL EYE BALL LINK BRACELET",
+      "existingTags": [
+        "10kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737161762,
+      "title": "10KR 7.89CTW DIAMOND CROSS AND BALL BEAD BRACELET",
+      "existingTags": [
+        "10kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091645378594,
+      "title": "10KT 0.24-0.25CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645542434,
+      "title": "10KT 0.24CT D- BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643904034,
+      "title": "10KT 0.55CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645116450,
+      "title": "10KT 0.56CT D- BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643805730,
+      "title": "10KT 0.56CT D-BYPASS BANGLE \"STAR\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645214754,
+      "title": "10KT 0.57CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091640365090,
+      "title": "10KT 0.58CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643412514,
+      "title": "10KT 0.60CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091640430626,
+      "title": "10KT 0.61-0.65 CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091640954914,
+      "title": "10KT 0.62CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643609122,
+      "title": "10KT 0.64CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643314210,
+      "title": "10KT 0.65CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641151522,
+      "title": "10KT 0.67CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643248674,
+      "title": "10KT 0.69CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641249826,
+      "title": "10KT 0.73CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091640856610,
+      "title": "10KT 0.74CT D- BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643707426,
+      "title": "10KT 0.76CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643510818,
+      "title": "10KT 0.80CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642953762,
+      "title": "10KT 0.83CT D- BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643052066,
+      "title": "10KT 0.84CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642626082,
+      "title": "10KT 0.86CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641053218,
+      "title": "10KT 0.87CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091643150370,
+      "title": "10KT 0.87CT D-BYPASS BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644395554,
+      "title": "10KT 0.98CT D-BANGLE BAGUETTES \"CLOVER\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644919842,
+      "title": "10KT 0.98CT D-BYPASS BANGLE BAGUETTES \"PEAR\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642822690,
+      "title": "10KT 0.99-1.00CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642920994,
+      "title": "10KT 1.00-1.03CT D- BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641348130,
+      "title": "10KT 1.09CT D- BANGLE BAGUETTES \"BUTTERFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641446434,
+      "title": "10KT 1.11CT D-BANGLE BAGUETTES \"BUTTERFLY",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646066722,
+      "title": "10KT 1.16-1.30CT D-BYPASS BANGLE \"HEART\" BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644887074,
+      "title": "10KT 1.16CT D-BANGLE BAGUETTES \"HEART\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642757154,
+      "title": "10KT 1.17-1.20CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644788770,
+      "title": "10KT 1.24CT D- BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642527778,
+      "title": "10KT 1.24CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645968418,
+      "title": "10KT 1.25- 1.29CT D-BYPASS BANGLE \"HEART\" BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645870114,
+      "title": "10KT 1.26-1.33CT D-BYPASS BANGLE \"BUTTERFLY\" BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641577506,
+      "title": "10KT 1.26CT D-BYPASS BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645771810,
+      "title": "10KT 1.28CT D-BYPASS BANGLE \"HEART\" BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644854306,
+      "title": "10KT 1.31CT D- BANGLE BAGUETTES \"CLOVER\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644592162,
+      "title": "10KT 1.38CT D- BANGLE BAGUETTES \"HEART\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645673506,
+      "title": "10KT 1.39CT D-BYPASS BANGLE \"HEART\" BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644100642,
+      "title": "10KT 1.42-1.43 CT D- BANGLE \"BUTTERFLY\" BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644690466,
+      "title": "10KT 1.42CT D- BANGLE BAGUETTES \"BUTTERFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644493858,
+      "title": "10KT 1.42CT D- BANGLE BAGUETTES \"BUTTREFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091640528930,
+      "title": "10KT 1.48CT D-BANGLE \"HEART\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644297250,
+      "title": "10KT 1.54CT D-BYPASS BANGLE BAGUETTES \"BUTTERFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644198946,
+      "title": "10KT 1.54CT D-BYPASS BANGLE BAGUETTES \"CLOVER\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091644952610,
+      "title": "10KT 2.04CT D-BYPASS BANGLE BAGUETTES \"CLOVER\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646427170,
+      "title": "10KT 2.37-2.42CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641675810,
+      "title": "10KT 2.54CT D- BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091645280290,
+      "title": "10KT 2.54CT D- BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646722082,
+      "title": "10KT 2.59CT D- BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646820386,
+      "title": "10KT 2.59CT D- BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646361634,
+      "title": "10KT 2.68CT D- BANGLE BAGUETTES \"BUTTERFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641839650,
+      "title": "10KT 2.69CT  D- BANGLE BAGUETTES \"BUTTERFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641970722,
+      "title": "10KT 2.72CT D- BANGLE BAGUETTES \"BUTTERFLY\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646263330,
+      "title": "10KT 2.99- 3.29CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642167330,
+      "title": "10KT 3.05- 3.29CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091642069026,
+      "title": "10KT 3.10-3.18CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091641643042,
+      "title": "10KT 6.80CT D-BANGLE",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646525474,
+      "title": "10KT1.99CT D-BANGLE \"IRON NAIL\"",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091737817122,
+      "title": "10KW 1.70CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "10kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737096226,
+      "title": "10KW 11.04CTW DIAMOND MULTI SHAPED LINK BRACELET",
+      "existingTags": [
+        "10kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737260066,
+      "title": "10KW 14.10CTW DIAMOND ROLO INFINITY LINK BRACELET",
+      "existingTags": [
+        "10kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739619362,
+      "title": "10KW 2.25CTW DIAMOND SQUARE LINK MIAMI CUBAN",
+      "existingTags": [
+        "10kw",
+        "Bracelet",
+        "home",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737325602,
+      "title": "10KW 5.20CTW DIAMOND XO EVIL EYE BRACELET",
+      "existingTags": [
+        "10kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8092693266466,
+      "title": "10KW 5.25CTW DIAMOND SQUARE LINK MIAMI CUBAN CHAIN",
+      "existingTags": [
+        "10kw",
+        "Necklace"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Type_Chain",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Type_Chain",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091737292834,
+      "title": "10KW 8.23CTW DIAMOND INFINITY ROLO LINK BRACELET",
+      "existingTags": [
+        "10kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091738996770,
+      "title": "10KY 0.25CTW ILLUSION SET DIAMOND 'XO' STYLE BOLO",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091740110882,
+      "title": "10KY 0.35CTW ILLUSION SET DIAMOND 4-PRONG BOLO",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091739160610,
+      "title": "10KY 1.00CTW DIAMOND ROUND PRONG SET BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Closout / Clearance"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091737587746,
+      "title": "10KY 1.20CTW DIAMOND BAGUETTE & ROUND HEART",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091739029538,
+      "title": "10KY 1.55CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091732443170,
+      "title": "10KY 1.65CTW DIAMOND FANCY MENS BRACELET - 8.5\"",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091732312098,
+      "title": "10KY 1.70CTW BAGUETTE DIAMOND CROSS BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091739357218,
+      "title": "10KY 1.75CTW DIAMOND BAGUETTE CLUSTER HEART & BUTT",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091731656738,
+      "title": "10KY 1.90CTW BAGUETTE DIAMOND CROSS BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091737718818,
+      "title": "10KY 10.35CTW DIAMOND SPIKE MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091731591202,
+      "title": "10KY 15MM 4.35CTW MICROPAVE DIAMOND ROLEX  8.5\"",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091738603554,
+      "title": "10KY 2.00CTW DIAMOND MENS BRACELET 8.5\"",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740307490,
+      "title": "10KY 2.25CTW DIAMOND BAGUETTE CLUSTER HEARTS",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091738013730,
+      "title": "10KY 2.30CTW DIAMOND FANCY MENS BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737751586,
+      "title": "10KY 2.35CTW DIAMOND SQUARE LINK MIAMI CUBAN",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091731623970,
+      "title": "10KY 2.60CTW BAGUETTE DIAMOND CROSS BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091738439714,
+      "title": "10KY 2.80CTW MICROPAVE DIAMOND MENS LINK BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739815970,
+      "title": "10KY 4.00CTW DIAMOND PRONG SET SQUARE CLUSTER MENS",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740504098,
+      "title": "10KY 4.00CTW DIAMOND SQUARE MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737653282,
+      "title": "10KY 4.10CTW MICROPAVE DIAMOND ROLEX LINK MENS",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737456674,
+      "title": "10KY 5.19CTW DIAMOND XO EVIL EYE BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737489442,
+      "title": "10KY 6.46CTW DIAMOND INFINITY ROLO LINK BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737358370,
+      "title": "10KY 6.95CTW INFINITY CROSS BRACELET - EVIL EYE",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737063458,
+      "title": "10KY 7.63CTW DIAMOND INFINITY EVIL EYE BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737423906,
+      "title": "10KY 8.10CTW BAGUETTE DIAMOND -INFINITY MENS",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737391138,
+      "title": "10KY 9.00CTW BAGUETTE DIAMOND -INFINITY MENS",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737980962,
+      "title": "10KY 9.00CTW DIAMOND MENS MICROPAVE BRACELET - ROL",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740373026,
+      "title": "10KY+W 2.25CTW DIAMOND ROUND CLUSTER HEARTS",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091740340258,
+      "title": "10KY+W 2.45CTW DIAMOND BAGUETTE & ROUND CLUSTER",
+      "existingTags": [
+        "10ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091732475938,
+      "title": "10KY+W 3.15CTW DIAMOND GUCCI LINK BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740078114,
+      "title": "10KY-W 1.95CTW DIAMOND HORIZONTAL CROSS BRACELET",
+      "existingTags": [
+        "10ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_10K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091717795874,
+      "title": "14K 1.09CT D-BANGLE LDS RDS",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091718975522,
+      "title": "14K 1.84-1.97CT D-BANGLE LDS RDS FLOWER SETTING",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091718877218,
+      "title": "14K 1.85-1.97CT D-BANGLE LDS RDS FLOWER SETTING",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Type_Set",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091718221858,
+      "title": "14K 3.93CT D-BANGLE LDS PCT",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091717992482,
+      "title": "14K 4.00-4.13CT D-BANGLE LDS PCT/RDS",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091717894178,
+      "title": "14K 4.84CT D-BANGLE LDS RDS \" INV FLOWER \"",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091718320162,
+      "title": "14K 5.72-6.09CT D-BANGLE LDS PCT",
+      "existingTags": [
+        "14 Kt",
+        "Bgl"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738931234,
+      "title": "14KR 0.01CTW BLUE SAPPHIRE HAMZA BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738538018,
+      "title": "14KR 0.10CTW DIAMOND HEART BRACELET WITH TURQUOISE",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Turquoise",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Turquoise",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091737686050,
+      "title": "14KR 0.15CTW DIAMOND AND BLUE SAPPHIRE EVIL EYE",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739193378,
+      "title": "14KR 0.16CTW DIAMOND EVIL EYE BRACELET W/",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739488290,
+      "title": "14KR 0.20CTW BLUE AND WHITE DIAMOND EVIL EYE HAMZA",
+      "existingTags": [
+        "14kr",
+        "Bracelet",
+        "home"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738570786,
+      "title": "14KR 0.20CTW DIAMOND BUTTERFLY BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091737915426,
+      "title": "14KR 0.20CTW DIAMOND EVIL EYE HAMSA BRACELET W/",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739521058,
+      "title": "14KR 0.20CTW DIAMOND EVIL EYE HAMSA BRACELET W/",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739422754,
+      "title": "14KR 0.65CTW DIAMOND PAPERCLIP BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739848738,
+      "title": "14KR 1.60CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739914274,
+      "title": "14KR 1.70CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740438562,
+      "title": "14KR 1.80CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739684898,
+      "title": "14KR 11.05CTW DIAMOND CLUSTER BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091737849890,
+      "title": "14KR 4.05CTW DIAMOND ROUND FLUER CLUSTER BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739455522,
+      "title": "14KR 4.50CTW BAGUETTE DIAMOND BRACELET",
+      "existingTags": [
+        "14kr",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091642429474,
+      "title": "14KT 0.25CT D-BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092695068706,
+      "title": "14KT 0.60CT LAB GROWN PENDANT \"L\"",
+      "existingTags": [
+        "14 Kt",
+        "Charm",
+        "Pendant"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091644002338,
+      "title": "14KT 0.61CT D-BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092695199778,
+      "title": "14KT 0.71CT LAB GROWN PENDANT \"I\"",
+      "existingTags": [
+        "14 Kt",
+        "Charm",
+        "Pendant"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092695101474,
+      "title": "14KT 0.73CT LAB GROWN PENDANT\"F\"",
+      "existingTags": [
+        "14 Kt",
+        "Charm",
+        "Pendant"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091646918690,
+      "title": "14KT 0.74- 0.75 CT D- BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092695167010,
+      "title": "14KT 0.84CT LAB GROWN PENDANT \"H\"",
+      "existingTags": [
+        "14 Kt",
+        "Charm",
+        "Pendant"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091642363938,
+      "title": "14KT 0.94CT D-BANGLE BAGUETTES \"HEART\"",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091645607970,
+      "title": "14KT 0.97CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091641708578,
+      "title": "14KT 0.98-1.16CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092695134242,
+      "title": "14KT 1.28CT LAB GROWN PENDANT\"M\"",
+      "existingTags": [
+        "14 Kt",
+        "Charm",
+        "Pendant"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Pendant",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091641774114,
+      "title": "14KT 1.36-1.42CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091671658530,
+      "title": "14KT 1.47-1.63CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091642265634,
+      "title": "14KT 1.68-1.86CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091641741346,
+      "title": "14KT 1.69CT D-BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091640627234,
+      "title": "14KT 1.80-1.88CT D- BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091640299554,
+      "title": "14KT 1.85- 1.86CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091640791074,
+      "title": "14KT 1.86CT D- BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091645476898,
+      "title": "14KT 1.87CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091646623778,
+      "title": "14KT 1.88CT D- BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091640725538,
+      "title": "14KT 2.24CT D-BANGLES",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091642855458,
+      "title": "14KT 2.76CT D- BANGLE",
+      "existingTags": [
+        "14 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092693364770,
+      "title": "14KW  0.25CT DIAMOND DOVE NECKLACE",
+      "existingTags": [
+        "14kw",
+        "Necklace"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738898466,
+      "title": "14KW 0.01CTW BLUE SAPPHIRE HAMZA BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738243106,
+      "title": "14KW 0.10CTW DIAMOND HEART BRACELET WITH TURQUOISE",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Turquoise",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Turquoise",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092693200930,
+      "title": "14KW 0.10CTW DIAMOND NECKLACE - ARROW",
+      "existingTags": [
+        "14kw",
+        "Necklace"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738832930,
+      "title": "14KW 0.12CTW BLUE AND WHITE DIAMOND ADJUSTABLE",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738275874,
+      "title": "14KW 0.15CTW DIAMOND AND BLUE SAPPHIRE EVIL EYE",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091737784354,
+      "title": "14KW 0.15CTW DIAMOND EVIL EYE BRACELET W/",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738734626,
+      "title": "14KW 0.16CTW DIAMOND EVIL EYE BRACELET W/",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092698902562,
+      "title": "14KW 0.20CTW DIAMOND & SAPPHIRE PROMISE RING",
+      "existingTags": [
+        "14kw",
+        "Band"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Ring",
+        "Style_Engagement",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Ring",
+        "Style_Engagement",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738210338,
+      "title": "14KW 0.20CTW DIAMOND EVIL EYE HAMSA BRACELET W/",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091740143650,
+      "title": "14KW 0.20CTW DIAMOND EVIL EYE HAMSA BRACELET W/",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738341410,
+      "title": "14KW 0.25CTW DIAMOND EVIL EYE BRACELET W/",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092693332002,
+      "title": "14KW 0.30CTW DIAMOND 2-ROW BAR NECKLACE",
+      "existingTags": [
+        "14kw",
+        "Necklace"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091740209186,
+      "title": "14KW 0.30CTW DIAMOND LOCK AND KEY CHARM BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Pendant",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Pendant",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092751757346,
+      "title": "14KW 0.50CTW DIAMOND ROUND CLUSTER BRIDAL SET WITH",
+      "existingTags": [
+        "14kw",
+        "Bridal Set",
+        "Cluster Ring"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739947042,
+      "title": "14KW 0.55CTW BAGUETTE DIAMOND ADJUSTABLE BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739389986,
+      "title": "14KW 0.65CTW DIAMOND PAPERCLIP BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092751724578,
+      "title": "14KW 1.30CTW DIAMOND QUAD HEAD BRIDAL SET WITH",
+      "existingTags": [
+        "14kw",
+        "Bridal Set",
+        "Quad Head Ring"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738865698,
+      "title": "14KW 1.70CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739652130,
+      "title": "14KW 1.80CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8092698640418,
+      "title": "14KW 1.90CTW DIAMOND MACHINE SET ETERNITY BAND",
+      "existingTags": [
+        "14kw",
+        "Band",
+        "Eternity Band"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738800162,
+      "title": "14KW 10.00CTW BAGUETTE DIAMOND BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8092698509346,
+      "title": "14KW 2.00CTW DIAMOND MACHINE SET ETERNITY BAND",
+      "existingTags": [
+        "14kw",
+        "Band",
+        "Eternity Band"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092751691810,
+      "title": "14KW 2.05CTW PC DIAMOND QUAD HEAD BRIDAL SET WITH",
+      "existingTags": [
+        "14kw",
+        "Bridal Set",
+        "Quad Head Ring"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091732377634,
+      "title": "14KW 2.15CTW DIAMOND MIAMI CUBAN BRACELET WITH DIA",
+      "existingTags": [
+        "14kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091738308642,
+      "title": "14KW 4.05CTW DIAMOND ROUND FLUER CLUSTER BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739783202,
+      "title": "14KW 6.10CTW PC DIAMOND MENS BRACELET",
+      "existingTags": [
+        "14kw",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739127842,
+      "title": "14KY 0.01CTW BLUE SAPPHIRE HAMZA BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092698738722,
+      "title": "14KY 0.10CTW DIAMOND & EMERALD FLOWER RING",
+      "existingTags": [
+        "14ky",
+        "Band"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Emerald",
+        "Type_Ring",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Emerald",
+        "Type_Ring",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738964002,
+      "title": "14KY 0.12CTW BLUE AND WHITE DIAMOND ADJUSTABLE",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738177570,
+      "title": "14KY 0.15CTW DIAMOND AND BLUE SAPPHIRE EVIL EYE",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Sapphire",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739979810,
+      "title": "14KY 0.15CTW DIAMOND BUTTERFLY BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738472482,
+      "title": "14KY 0.16CTW DIAMOND EVIL EYE BRACELET W/",
+      "existingTags": [
+        "14kw",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092698837026,
+      "title": "14KY 0.20CTW DIAMOND & RUBY PROMISE RING",
+      "existingTags": [
+        "14kw",
+        "Band",
+        "home"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Ruby",
+        "Type_Ring",
+        "Style_Engagement",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Ruby",
+        "Type_Ring",
+        "Style_Engagement",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738505250,
+      "title": "14KY 0.20CTW DIAMOND EVIL EYE HAMSA BRACELET W/",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738079266,
+      "title": "14KY 0.25CTW DIAMOND EVIL EYE BRACELET W/",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738701858,
+      "title": "14KY 0.25CTW DIAMOND EVIL EYE HAMSA BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738374178,
+      "title": "14KY 0.25CTW DIAMOND OPEN CIRCLE HAMSA BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Style_Religious",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091740045346,
+      "title": "14KY 0.50CTW DIAMOND 3 BUTTERFLY BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739881506,
+      "title": "14KY 0.55CTW DIAMOND ADJUSTABLE BRACELET - SINGLE",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739291682,
+      "title": "14KY 0.55CTW DIAMOND MIAMI CUBAN LADIES BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Women"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Women"
+      ]
+    },
+    {
+      "id": 8092750315554,
+      "title": "14KY 1.05CTW DIAMOND QUAD HEAD BRIDAL SET WITH",
+      "existingTags": [
+        "14ky",
+        "Bridal Set",
+        "Quad Head Ring"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092751626274,
+      "title": "14KY 1.05CTW PC DIAMOND QUAD HEAD BRIDAL SET",
+      "existingTags": [
+        "14ky",
+        "Bridal Set",
+        "Quad Head Ring"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Ring",
+        "Type_Set",
+        "Style_Wedding",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8092693233698,
+      "title": "14KY 1.15CTW ALTERNATING DIAMOND MIAMI CUBAN",
+      "existingTags": [
+        "14ky",
+        "Necklace"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Necklace",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738046498,
+      "title": "14KY 1.70CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739717666,
+      "title": "14KY 1.80CTW DIAMOND MIAMI CUBAN BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740176418,
+      "title": "14KY 11.05CTW DIAMOND CLUSTER BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739586594,
+      "title": "14KY 11.25CTW MENS DIAMOND BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740471330,
+      "title": "14KY 11.50CTW INVISIBLE PC DIAMOND MENS BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740012578,
+      "title": "14KY 2.15CTW DIAMOND MIAMI CUBAN BRACELET WITH DIA",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739324450,
+      "title": "14KY 2.55CTW DIAMOND OVAL SHAPED LADIES BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Women"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Women"
+      ]
+    },
+    {
+      "id": 8091737522210,
+      "title": "14KY 3.19CTW DIAMOND EMERALD CUT LADIES BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Emerald",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Women"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Stone_Emerald",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Women"
+      ]
+    },
+    {
+      "id": 8091739258914,
+      "title": "14KY 3.25CTW DIAMOND CLUSTER EVIL-EYE SHAPED",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091738112034,
+      "title": "14KY 4.05CTW DIAMOND ROUND FLUER CLUSTER BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold"
+      ]
+    },
+    {
+      "id": 8091739226146,
+      "title": "14KY 4.30CTW BAGUETTE DIAMOND SQUARE CLUSTER",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739553826,
+      "title": "14KY 4.50CTW BAGUETTE DIAMOND BRACELET",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091740405794,
+      "title": "14KY 4.75CTW DIAMOND MENS 4-PRONG SQUARE TENNIS BR",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "home",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091739095074,
+      "title": "14KY 8.50CTW BAGUETTE DIAMOND SQUARE CLUSTER",
+      "existingTags": [
+        "14ky",
+        "Bracelet",
+        "Mens Bracelet"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Stone_Diamond",
+        "Type_Bracelet",
+        "Karat_14K Gold",
+        "For_Men"
+      ]
+    },
+    {
+      "id": 8091645018146,
+      "title": "18KT 3.54CT D- BANGLE (LAB GROWN)",
+      "existingTags": [
+        "18 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_18K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_18K Gold"
+      ]
+    },
+    {
+      "id": 8091722055714,
+      "title": "925 SS 0.37-0.47CT D-BANGLE LDS RDS MP",
+      "existingTags": [
+        "925",
+        "Bglp"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Silver",
+        "Type_Bracelet",
+        "Karat_925 Silver"
+      ],
+      "allFilterTags": [
+        "Metal_Silver",
+        "Type_Bracelet",
+        "Karat_925 Silver"
+      ]
+    },
+    {
+      "id": 8092691234850,
+      "title": "CLOSEOUT 10KT 0.04-0.05CT D-EARRINGS \"HEART\"",
+      "existingTags": [
+        "10 Kt",
+        "Earrings"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8092691267618,
+      "title": "CLOSEOUT 10KT 0.05CT D- EARRINGS",
+      "existingTags": [
+        "10 Kt",
+        "Earrings"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8092691398690,
+      "title": "CLOSEOUT 10KT 0.05CT D- EARRINGS",
+      "existingTags": [
+        "10 Kt",
+        "Earrings"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8092691365922,
+      "title": "CLOSEOUT 10KT 0.05CT D-DARK POLISH EARRINGS",
+      "existingTags": [
+        "10 Kt",
+        "Earrings"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8092691136546,
+      "title": "CLOSEOUT 10KT 0.05CT D-EARRINGS",
+      "existingTags": [
+        "10 Kt",
+        "Earrings"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8092691202082,
+      "title": "CLOSEOUT 10KT 0.05CT D-EARRINGS",
+      "existingTags": [
+        "10 Kt",
+        "Earrings"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Ring",
+        "Type_Earring",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091640234018,
+      "title": "CLOSEOUT 10KT 5.96-6.89CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    },
+    {
+      "id": 8091646165026,
+      "title": "CLOSEOUT 10KT 7.92-8.47CT D-BANGLE BAGUETTES",
+      "existingTags": [
+        "10 Kt",
+        "Bangles"
+      ],
+      "filterTagsToAdd": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ],
+      "allFilterTags": [
+        "Metal_Gold",
+        "Type_Bracelet",
+        "Karat_10K Gold"
+      ]
+    }
+  ]
+}
