@@ -1,0 +1,32 @@
+{
+  "name": "mycase-auth-flow",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "calendly:redirect-uri": "node scripts/calendly-redirect-uri.js",
+    "shopify:audit": "node scripts/shopify-store-audit.js",
+    "shopify:products": "node scripts/shopify-pull-products.js",
+    "shopify:categorize": "node scripts/shopify-auto-categorize.js",
+    "shopify:categorize:dry": "node scripts/shopify-auto-categorize.js --dry-run",
+    "shopify:filters": "node scripts/shopify-setup-filters.js",
+    "shopify:filters:dry": "node scripts/shopify-setup-filters.js --dry-run",
+    "shopify:full-audit": "node scripts/shopify-full-audit.js",
+    "shopify:fix-policies": "node scripts/shopify-fix-policies.js",
+    "shopify:fix-pages": "node scripts/shopify-fix-pages.js",
+    "shopify:fix-nav": "node scripts/shopify-fix-navigation.js",
+    "shopify:fix-seo": "node scripts/shopify-fix-seo.js",
+    "shopify:fix-seo:dry": "node scripts/shopify-fix-seo.js --dry-run",
+    "shopify:launch": "node scripts/shopify-launch-prep.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
