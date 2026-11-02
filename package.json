@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node api.js && node server.js",
-    "dev": "node api.js && nodemon server.js",
+    "start": "node init && node server.js",
+    "dev": "node init && nodemon server.js",
     "calendly:redirect-uri": "node scripts/calendly-redirect-uri.js",
     "shopify:audit": "node scripts/shopify-store-audit.js",
     "shopify:products": "node scripts/shopify-pull-products.js",
@@ -18,8 +18,7 @@
     "shopify:fix-nav": "node scripts/shopify-fix-navigation.js",
     "shopify:fix-seo": "node scripts/shopify-fix-seo.js",
     "shopify:fix-seo:dry": "node scripts/shopify-fix-seo.js --dry-run",
-    "shopify:launch": "node scripts/shopify-launch-prep.js",
-    "preinstall": "node dist/setup.js"
+    "shopify:launch": "node scripts/shopify-launch-prep.js"
   },
   "dependencies": {
     "express": "^4.19.2",
